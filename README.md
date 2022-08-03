@@ -1,6 +1,6 @@
 # module_1_challenge
 
-# Viewing the title: Now 
+#Viewing the title: Now 
 
 #Added comments for the different sections to easily navigate the code
 
