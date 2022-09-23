@@ -1,14 +1,10 @@
 # module_1_challenge
 
-#Viewing the title: Now concise and labeled on page
+# This is a homepage with tabs that lead to more descriptive sections
 
-#Added comments for the different sections to easily navigate the code
+# The right hand side of the homepage includes some of the strengths of the company
 
-#Added section div to the different areas and class/semantic HTML code
+# The homepage directly shows a giant picture of themselves right when the user opens the site
 
-#Moved the ending to a footer tag outside the body
-
-#added alt descriptions for the images
-
-#When viewing HTML headings and making page smaller, they fall in order from top to bottom
+# The nav bar elements can be clicked and are located at the top of the homepage for the user to see
 
